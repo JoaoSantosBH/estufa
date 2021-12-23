@@ -1,5 +1,5 @@
 #define BEEP A3
-#define RELAY 4
+#define RELAY 8
 #define DHT_SENSOR A1
 #define DHTTYPE DHT11
 
